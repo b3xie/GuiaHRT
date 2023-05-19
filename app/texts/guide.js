@@ -12,7 +12,7 @@ export default function Guide(){
           </h1>
         </p>
         <p>
-          <h1>Para isso, são utilizados bloqueadores de Testosterona e </h1>
+          <h1>Para isso, podem ser usada uma combinação de bloqueadores de Testosterona e Estradiol, apenas Estradiol, ou uma combinação de Estradiol + Progestin</h1>
         </p>
         <br/>
         <h1 className='text-3xl'>Efeitos</h1>
